@@ -1,4 +1,4 @@
-package org.laradong.demo.CodeCoPark.data.json;
+package org.laradong.ccp.json;
 
 import java.util.Date;
 

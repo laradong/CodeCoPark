@@ -1,9 +1,10 @@
-package org.laradong.demo.CodeCoPark.data.json;
+package org.laradong.cpp.json;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 import org.junit.Assert;
 import org.junit.Test;
+import org.laradong.ccp.json.CommitStatusDto;
 
 import java.util.Calendar;
 import java.util.TimeZone;
