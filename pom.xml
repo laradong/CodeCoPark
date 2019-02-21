@@ -13,6 +13,8 @@
         <module>ccp-db</module>
         <module>ccp-text</module>
         <module>ccp-dist</module>
+        <module>ccp-util</module>
+        <module>cpp-util</module>
     </modules>
 
     <properties>
