@@ -14,7 +14,9 @@
         <module>ccp-text</module>
         <module>ccp-dist</module>
         <module>ccp-util</module>
-        <module>cpp-util</module>
+        <module>ccp-util</module>
+        <module>ccp-puzzle</module>
+        <module>ccp-puzzle</module>
     </modules>
 
     <properties>
